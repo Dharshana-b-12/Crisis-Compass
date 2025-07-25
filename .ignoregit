@@ -1,0 +1,14 @@
+# Node
+node_modules/
+.env
+
+# React
+frontend/node_modules/
+frontend/.env
+
+# Backend
+backend/node_modules/
+backend/.env
+
+# Misc
+.DS_Store
